@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot for Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polinazman/chatbot.git"
+  },
+  "author": "Polina Zmanovskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polinazman/chatbot/issues"
+  },
+  "homepage": "https://github.com/polinazman/chatbot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
