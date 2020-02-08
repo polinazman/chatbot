@@ -16,5 +16,7 @@
     "url": "https://github.com/polinazman/chatbot/issues"
   },
   "homepage": "https://github.com/polinazman/chatbot#readme",
-  "dependencies": {}
+  "dependencies": {
+    "telegraf": "^3.36.0"
+  }
 }
