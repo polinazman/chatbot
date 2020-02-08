@@ -16,7 +16,5 @@
     "url": "https://github.com/polinazman/chatbot/issues"
   },
   "homepage": "https://github.com/polinazman/chatbot#readme",
-  "dependencies": {
-    "node-telegram-bot-api": "^0.40.0"
-  }
+  "dependencies": {}
 }
