@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hazel-sphinx-272007",
+  "private_key_id": "1f1e4067201ab6a4d42324fd1f746004b39ef6ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzYvb79idz4r0o\nlubEtr4CYVqv9iJCUvck1Xd6Dk/mxZN9ylMqe+KAfHPznBlza2/otNa784dltBdy\nun7IRtjHjfut31/qISNwGMaggk0lorODtvp2PXybEHhHS44DosyXh2gm1HH/WDyU\nrIGLXjWxM750axKoU4Uq9eCmQy6ezn3JLuqhBl1zGmeSKN065iLCftbi+NEkxVVJ\nzu0b3eJvdklJ0XXOqp3/O5OxhuCh0kyG4XEE5pYfe2+ClSqN4x6QAty5hticluOD\nvk1n3/AqCRIBNq8LPWdTDaVaEyDEFs/j+UYDGW/RoFog2zoKoJYspcXufq3Wmx1A\nUJ6LkMXVAgMBAAECggEAAMe0ZUIbx9A7nFqTpFVbHC2KNGuwmHM96eYXv+siA9Hm\nI0zm8a9aO87Ovkd2gN79vJhUurqDYzjWRUR0WrCcLrn6VzY6d40vV0R0UKxgY4KC\nn1cDXdJEoXP/4ed9NZzWoO4Q0OJpoH+ku8zIP2/ocd3UvTLeAOdkE9y/3lk6caxY\nV3XU6upp+3UTOrzrpshzm9UBQEqOhtRWymmXrwZjeTTLw6I4/FMCcgOnx0ekYErf\nB89J/j+e2SdZRY0oEajFnbvS5shOhX+YpFpK+s3EgoBLWF6VsjzSbAjX6Ni6Qh9x\nn0C2mrFJhi9EUEJXOsGlO+YtnATQOGmP7uM8zOF3XQKBgQDlPt86S4yYF4TpfWLR\nfHW6Dju0cLjHLTg9GzhqkeLwhAXNYZNB3DsRWCMrbNTv9trsRvx9wnATN0r8sjtL\nBjzwh4WssbJ+P4O+w2ZQCmcjUfmxnozp3YGPC4RAM6HpYKyeJsVij4T+1nHE37WG\nryhVb0EzLHzxWiv+f6pADvw1owKBgQDIUnbfRQJlXG5ARSTo+odpWPz/JhJkV8i4\nSvzS05JNAadNtfP9j6IO4H4YYfWeFoiaBh6dcYTL3iGxx+HZaFp60/7c2O8HAHMh\nNEaf3Fn6acB4CrKxk6sVfTFq0W9TXkr8Hel2ZjQiaPSl2ULnXkbbpasT7aQamV+K\nI025Gm6eJwKBgAQgqaxHB/UFF2OM2majMwtyjiilju4nJkgTYWSp08g42FHmW9xn\ntriNObTidMMNUsvGS22IPrRZ3oPGQcMMDbTW+9UsLeaQBjM9GW5/gXPlWfWUwTzE\nvDxzHKJ7S4MENpdyY0NvChn8infc/0u5g6RmKGpfdrBxyzD943bbzja5AoGAOpFp\nseOCTNJWZbIRlZBR8OoUpiCidfX4eHFsM9OpzZvzJ1RQbs0Ey6a1FznkzwC1lZq+\nbrfW5KggX9MZ5C+PbKP4uucuE3T9NDMNhwWsxPsQS8iM8EBFX/YHcbyj+NLzx3yT\nWouNKJZZGPhJiE3XF7b7KstrFF/NQB0MR1dECjcCgYB27KtUcRrDvo16YQUJlxP9\n670eb7UD6VlxsVR1FC5BMEJHjLUrWZR4qh8ABW+e/LdWeJeF642iuGSAcuYcuLND\ncM5zlQYIel6JXqEN3ZBFR7LzpFwKeoH3OR5971MhRtvdh119xQwyLy2UX5rNmFSP\nP6915d3hnM8QkP/1E3mRPA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@hazel-sphinx-272007.iam.gserviceaccount.com",
+  "client_id": "113994394505069001031",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40hazel-sphinx-272007.iam.gserviceaccount.com"
+}
